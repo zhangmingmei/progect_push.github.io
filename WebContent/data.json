@@ -1,0 +1,9 @@
+{
+    
+    "questionlist":[
+            {"id":1, "type":"t", "required": true,"title":"你以后还想去大润发购物吗？"},
+            {"id":2, "type":"s", "required": true,"title":"第二道","answerlist":[{"a":"11"},{"a":"22"},{"a":"33"}]},
+             {"id":2, "type":"m", "required": true,"title":"第二道","answerlist":[{"a":"11"},{"a":"22"},{"a":"33"}]}
+            
+            ]
+}
